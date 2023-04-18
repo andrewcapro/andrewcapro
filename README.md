@@ -7,16 +7,17 @@
 * Python
 
 #### *Web Programming Technologies:*
-* HTML
-* CSS
+* HTML & CSS
 * React.js
 * Next.js
 * Node.js
 * Express
 * JQuery
+* AJAX
+
+#### *Database Software:*
 * SQL
 * MongoDB
 * GraphQL
 * AWS
 * Firebase
-* AJAX
