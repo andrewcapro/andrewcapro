@@ -6,7 +6,7 @@
 * Java
 * Python
 
-#### *Web Programming Technologies:*
+#### *Web Development Technologies:*
 * HTML & CSS
 * React.js
 * Next.js
