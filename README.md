@@ -1,4 +1,4 @@
-### Hello, I'm Andrew Capro and I'm an aspiring Web Developer!
+### Hello, I'm Andrew Capro, a Software Engineer
 #### *Here are some Programming Languages used in projects:*
 * JavaScript, C++, C, Java, Python
 
